@@ -1,0 +1,4 @@
+LIBRARY "BitMapEditorDLL" 
+EXPORTS 
+Dodaj
+GreyASM
